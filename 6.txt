@@ -1,0 +1,5 @@
+docker stop changeme
+docker run --name mountme -v $PWD/src:/srv -d -p 2015:2015 abiosoft/caddy:php
+vim src/index.php
+docker stop mountme
+docker rm mountme

@@ -1,0 +1,2 @@
+docker pull abiosoft/caddy:php
+docker run -it -e FOO=BAR -p 2015:2015 --rm abiosoft/caddy:php

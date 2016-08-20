@@ -1,0 +1,2 @@
+docker run --name changeme -d -p 2015:2015 abiosoft/caddy:php
+docker exec -it changeme /bin/sh

@@ -1,0 +1,1 @@
+docker run -e NAME=$(whoami) -v $PWD/src:/srv --rm -p 2015:2015 abiosoft/caddy:php

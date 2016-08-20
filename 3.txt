@@ -1,0 +1,2 @@
+docker run -p 8080:2015 abiosoft/caddy:php
+# open http://localhost:8080

@@ -1,0 +1,2 @@
+docker build -t phptutorial .
+docker run -p 2015:2015 phptutorial
