@@ -4,7 +4,8 @@ Using [abiosoft/caddy:php](https://github.com/abiosoft/caddy-docker/blob/master/
 
 <img src="http://s.natalian.org/2016-08-21/1471745879_2558x1404.png" alt="PHP tutorial">
 
-First please [install Docker](https://docs.docker.com/engine/installation/)
+First please [install Docker](https://docs.docker.com/engine/installation/) and
+we assume you have a bash shell CLI!
 
 Following contains tutorial steps to help familiarise yourself with running and
 building Docker images.
