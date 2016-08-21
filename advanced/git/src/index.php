@@ -1,5 +1,5 @@
 <?php
 
-echo "<h1>Version: " . getenv('COMMIT');
+echo "<h1>Version: " . getenv('COMMIT') . "</h1>";
 
 ?>
