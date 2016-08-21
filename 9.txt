@@ -1,0 +1,2 @@
+# https://hub.docker.com/_/php/
+docker run --rm -p 2015:80 -v "$PWD/src":/var/www/html php:7.0-apache
